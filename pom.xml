@@ -234,14 +234,6 @@
                             <!--<configLocation>custom-checkstyle.xml</configLocation>-->
                         <!--</configuration>-->
                     <!--</plugin>-->
-					
-					<!--Nexus-->
-						<distributionManagement>
-							<snapshotRepository>
-							<id>1234</id>
-							<url>http://18.222.93.199:8081/nexus/content/repositories/1234</url>
-							</snapshotRepository>
-						</distributionManagement>
 
                     <!-- PMD -->
                     <plugin>
